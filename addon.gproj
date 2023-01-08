@@ -1,0 +1,8 @@
+GameProject {
+ ID "OnTheFly"
+ GUID "5C50CC01058383DA"
+ TITLE "OnTheFly"
+ Dependencies {
+  "591AF5BDA9F7CE8B" "58D0FB3206B6F859"
+ }
+}

@@ -1,0 +1,18 @@
+SubScene {
+ Parent "{54332C7D7BE2F19D}Worlds/CaptureAndHold/CAH_BaseWorld_Arland.ent"
+}
+Layer default {
+ Index 0
+}
+Layer gamemode {
+ Index 1
+}
+Layer loadout {
+ Index 2
+}
+Layer spawnpoints {
+ Index 3
+}
+Layer capturearea {
+ Index 4
+}
