@@ -1,0 +1,4 @@
+SCR_ManualCamera OTF_SpecCam : "{E1FF38EC8894C5F3}Prefabs/Editor/Camera/ManualCameraSpectate.et" {
+ coords 3033.003 13.002 3110.865
+ m_DefaultFlags ABOVE_TERRAIN
+}

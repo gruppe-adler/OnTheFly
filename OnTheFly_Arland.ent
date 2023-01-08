@@ -16,3 +16,6 @@ Layer spawnpoints {
 Layer capturearea {
  Index 4
 }
+Layer spectator {
+ Index 5
+}

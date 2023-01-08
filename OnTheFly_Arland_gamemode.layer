@@ -1,5 +1,10 @@
 SCR_BaseGameMode GameMode_CaptureAndHold1 : "{26758D3CAD920EF2}Prefabs/MP/Modes/CaptureAndHold/GameMode_CaptureAndHold.et" {
- coords 2043.953 44.557 2063.891
+ components {
+  SCR_RespawnMenuHandlerComponent "{56B4C112F9FDCED6}" {
+   m_bAllowQuickDeploy 0
+  }
+ }
+ coords 3246.834 12.742 2771.396
 }
 SCR_GarbageManager : "{93823D47A94E1B83}Prefabs/MP/Managers/Garbage/CaptureAndHoldGarbageManager_Small.et" {
  coords 2692.706 113.38 2422.764
